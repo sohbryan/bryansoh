@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bryansoh/static/css/main.a617e044.chunk.css",
+    "main.js": "/bryansoh/static/js/main.ed422daf.chunk.js",
+    "main.js.map": "/bryansoh/static/js/main.ed422daf.chunk.js.map",
+    "runtime-main.js": "/bryansoh/static/js/runtime-main.2205c287.js",
+    "runtime-main.js.map": "/bryansoh/static/js/runtime-main.2205c287.js.map",
+    "static/js/2.d20756df.chunk.js": "/bryansoh/static/js/2.d20756df.chunk.js",
+    "static/js/2.d20756df.chunk.js.map": "/bryansoh/static/js/2.d20756df.chunk.js.map",
+    "static/js/3.04c4f5ec.chunk.js": "/bryansoh/static/js/3.04c4f5ec.chunk.js",
+    "static/js/3.04c4f5ec.chunk.js.map": "/bryansoh/static/js/3.04c4f5ec.chunk.js.map",
+    "index.html": "/bryansoh/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bryansoh/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d20756df.chunk.js.LICENSE.txt": "/bryansoh/static/js/2.d20756df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bryansoh/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2205c287.js",
+    "static/js/2.d20756df.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ed422daf.chunk.js"
+  ]
+}
